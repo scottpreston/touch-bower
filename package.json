@@ -1,0 +1,22 @@
+{
+    "name": "touch-bower",
+    "version": "0.1.0",
+    "description": "allows you to create a blank bower config from command line",
+    "main": "lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/scottpreston/touch-bower"
+    },
+    "keywords": [
+        "bower",
+        "bower init"
+    ],
+    "author": "Scott Preston",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/scottpreston/touch-bower/issues"
+    },
+    "devDependencies": {
+        "jasmine-node": "^1.14.5"
+    }
+}
